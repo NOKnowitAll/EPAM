@@ -1,6 +1,6 @@
-<h1 align="center">EPAM Cloud&DevOps Fundamentals Autumn 2022 <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">EPAM Cloud&DevOps Fundamentals Autumn 2022</h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">(c) </h3>
+<h3 align="center">(c) <a href="http://ybotsman.pp.ua/" target="_blank">Yaroslav Botsman</a>  </h3>
 
 ## EPAM Cloud&DevOps Fundamentals Autumn 2022
 ##  
