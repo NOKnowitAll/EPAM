@@ -3,7 +3,7 @@
 
 ## HOMEWORK TASKS: 
 
-[Module 1 Linux administration with bash] [01]:
+[Module 1 Linux administration with bash]: [01]
 ## Module 1 Linux administration with bash
 ## Module 2 Database Administration
 ## Module 3 Linux Networking 
