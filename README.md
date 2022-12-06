@@ -3,7 +3,7 @@
 
 ## HOMEWORK TASKS: 
 
-[пример]([http://example.com/](https://github.com/NOKnowitAll/EPAM/tree/main/Module1_Linux_administration_with_bash) "Module 1 Linux administration with bash")
+[пример](https://github.com/NOKnowitAll/EPAM/tree/main/Module1_Linux_administration_with_bash "Module 1 Linux administration with bash")
 ## Module 1 Linux administration with bash
 ## Module 2 Database Administration
 ## Module 3 Linux Networking 
