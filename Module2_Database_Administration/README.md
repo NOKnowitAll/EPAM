@@ -1,7 +1,7 @@
-# EPAM Cloud&DevOps Fundamentals Autumn 2022
-# Module 2 Database Administration. Home task DB
+## EPAM Cloud&DevOps Fundamentals Autumn 2022
+## Module 2 Database Administration. Home task DB
 
-# HOME TASK PART 1
+## HOME TASK PART 1
 
 1. Download MySQL server for your OS on VM.
 [2_1.png]
@@ -32,7 +32,7 @@
 [2_18.png]
 [2_19.png]
 
-# HOME TASK PART 2
+## HOME TASK PART 2
 
 10.Make backup of your database.
 [2_20.png]
@@ -51,7 +51,7 @@
 16.Create the dump of your database.
 [2_28.png]  
 
-# HOME TASK PART 3 – MongoDB
+## HOME TASK PART 3 – MongoDB
 
 17. Create a database. Use the use command to connect to a new database (If it doesn't exist, Mongo will create it when you write to it).
 [2_29.png]
