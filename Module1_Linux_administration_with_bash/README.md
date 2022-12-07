@@ -1,7 +1,7 @@
-# EPAM Cloud&DevOps Fundamentals Autumn 2022
-# Module 1 Linux administration with bash. Home task A
+## EPAM Cloud&DevOps Fundamentals Autumn 2022
+### Module 1 Linux administration with bash. Home task A
 
-# HOME TASK 1.A
+### HOME TASK 1.A
 
 A. Create a script that uses the following keys:
 1. When starting without parameters, it will display a list of possible keys and their description.
@@ -15,7 +15,7 @@ A. Create a script that uses the following keys:
 [1.6.A.png]
 
 
-# HOME TASK 1.B
+### HOME TASK 1.B
 The code that performs the functionality of each of the subtasks must be placed in a separate function
 B. Using Apache log example create a script to answer the following questions:
 1. From which ip were the most requests?
@@ -31,7 +31,7 @@ B. Using Apache log example create a script to answer the following questions:
 [1.11.B.png]
 
 
-# HOME TASK 1.C
+### HOME TASK 1.C
 C. Create a data backup script that takes the following data as parameters:
 1. Path to the syncing directory.
 2. The path to the directory where the copies of the files will be stored.
