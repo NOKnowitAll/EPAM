@@ -7,7 +7,7 @@ A. Create a script that uses the following keys:
 1. When starting without parameters, it will display a list of possible keys and their description.
 2. The --all key displays the IP addresses and symbolic names of all hosts in the current subnet
 3. The --target key displays a list of open system TCP ports.
-[1.1.A.png]
+[1.1.A.png] ![Image alt](https://github.com/NOKnowitAll/EPAM/blob/main/DevOps.png)
 [1.2.A.png]
 [1.3.A.png]
 [1.4.A.png]
