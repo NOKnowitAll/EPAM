@@ -1,4 +1,4 @@
-<img src="[path/to/screenshot.png](https://github.com/NOKnowitAll/EPAM/blob/main/DevOps.png)" width="600">
+<img src="https://github.com/NOKnowitAll/EPAM/blob/main/DevOps.png" width="600">
 <h1 align="center">EPAM Cloud&DevOps Fundamentals Autumn 2022</h1>
 <h3 align="center">(c) <a href="http://yb.pp.ua/" target="_blank">YB</a>  </h3>
 
