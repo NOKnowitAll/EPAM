@@ -66,5 +66,5 @@
 [2_35.png]
 21. Bonus. Create MongoDB backup and restore.
 [2_36.png]
-[2_37.png]
+[2_37.png] 
 
