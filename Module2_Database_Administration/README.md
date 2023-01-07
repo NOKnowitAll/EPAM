@@ -66,5 +66,6 @@
 [2_35.png]
 21. Bonus. Create MongoDB backup and restore.
 [2_36.png]
-[2_37.png] 
+[2_37.png]
+[a link](https://github.com/NOKnowitAll/EPAM/tree/main/Module2_Database_Administration/mongo_bd_dump_10-31-22/EPAM_DevOps_Autumn_2022)
 
