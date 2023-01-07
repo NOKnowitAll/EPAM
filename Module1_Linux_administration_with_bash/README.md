@@ -11,6 +11,7 @@ A. Create a script that uses the following keys:
 ```
 Text
 ```
+[apache_logs.txt](https://github.com/NOKnowitAll/EPAM/blob/main/Module1_Linux_administration_with_bash/apache_logs.txt)
 #### Bash script output:
 [1.1.A.png]
 [1.2.A.png]
