@@ -8,11 +8,11 @@ A. Create a script that uses the following keys:
 2. The --all key displays the IP addresses and symbolic names of all hosts in the current subnet
 3. The --target key displays a list of open system TCP ports.
 ![Image alt](https://github.com/NOKnowitAll/EPAM/blob/main/Module1_Linux_administration_with_bash/1.1.A.png)
-[1.2.A.png]
-[1.3.A.png]
-[1.4.A.png]
-[1.5.A.png]
-[1.6.A.png]
+![Image alt](https://github.com/NOKnowitAll/EPAM/blob/main/Module1_Linux_administration_with_bash/1.2.A.png)
+![Image alt](https://github.com/NOKnowitAll/EPAM/blob/main/Module1_Linux_administration_with_bash/1.3.A.png)
+![Image alt](https://github.com/NOKnowitAll/EPAM/blob/main/Module1_Linux_administration_with_bash/1.4.A.png)
+![Image alt](https://github.com/NOKnowitAll/EPAM/blob/main/Module1_Linux_administration_with_bash/1.5.A.png)
+![Image alt](https://github.com/NOKnowitAll/EPAM/blob/main/Module1_Linux_administration_with_bash/1.6.A.png)
 
 
 ### HOME TASK 1.B
