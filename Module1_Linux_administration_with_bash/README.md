@@ -11,7 +11,7 @@ A. Create a script that uses the following keys:
 ```
 Text
 ```
-#### Bash script - run application and show live output
+#### Bash script output:
 [1.1.A.png]
 [1.2.A.png]
 [1.3.A.png]
